@@ -1,7 +1,7 @@
-# Algoritmos.js
+﻿# Algoritmos.js
 
 
-Challenges completos de empresas ou de sites, todos codados em JavaScript.
+Challenges completos de empresas, sites ou aulas, todos codados em JavaScript.
 
 # Autor
 
@@ -11,9 +11,10 @@ Caio Mestres -
 ![alt text](http://www.icynene.com/sites/all/modules/socialmedia/icons/levelten/glossy/16x16/facebook.png "Facebook"): https://www.facebook.com/caio.mestres  
 Email: caiodev@gmail.com
 
-# Versão 1.0.0
 
 
 # Reconhecimentos
+
+Stephen Grider é o cara !
 
 
